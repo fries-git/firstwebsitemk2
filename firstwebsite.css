@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 20px;
+}
